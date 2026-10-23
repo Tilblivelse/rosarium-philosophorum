@@ -4,11 +4,6 @@ plate: 5
 title: "The Conjunction"
 work: Rosarium Philosophorum
 edition: "Frankfurt 1550 (Cyriacus Jacob; De Alchimia Opuscula complura veterum philosophorum, Part II)"
-series: first (plates 1-10; Jung)
-subsequence: "A (4-10)"
-alchemical_stage: "Coniunctio, following dissolution into the massa confusa (ARAS)"
-jung_chapter: "The Conjunction"
-jung_cw16: "CW16 ¶457-465"
 image_url: "https://www.alchemywebsite.com/virtual_museum/Images/RS05.jpg"
 verified_against_1550_print: false
 tags: [rosarium, plate]
@@ -16,60 +11,11 @@ tags: [rosarium, plate]
 # Plate 5: The Conjunction
 
 ## Image
-The sea has closed over the king and queen, who have returned to the massa confusa, the chaotic beginning. Sol and Luna lie joined in the water. A variant (Figure 5a, also Plate 11) shows them winged. ARAS associates the scene with Physis holding the 'man of light' and Beya (the maternal sea) absorbing Gabricus.
+The sea has closed over the king and queen, who lie joined together in the water.
 
-## Text and motto
-Verse (English rendering quoted by ARAS): "O Luna, folded in my sweet embrace / Be you as strong as I, as fair of face" / "O Sol, brightest of all lights known to men / And yet you need me, as the cock the hen". Quoted maxims: "In the hour of conjunction the greatest marvels appear"; "The new light is begotten by them." Glasgow MS Ferguson 210 captions this plate "Conception or Putrefaction".
-
-## Alchemical stage
-Coniunctio, following dissolution into the massa confusa (ARAS)
-
-### Etymology and symbolism
-- Conception: Latin conceptio, from concipere, 'to take in and hold', from capere, 'to take'; in English first the act of conceiving in the womb ([Etymonline](https://www.etymonline.com/word/conception)). Glasgow MS Ferguson 210 captions this plate 'Conception or Putrefaction'; ARAS gives 'Conceptio' as a title for Plate 6 instead.
-- Putrefaction: Latin putrefacere, 'to make rotten', from a verb for rotting and facere, 'to make' ([Etymonline](https://www.etymonline.com/word/putrefaction)). It is the second half of Glasgow's caption for this plate.
-- Etymologies are from the sources linked here. Where a plate source (ARAS, Glasgow, Henderson) uses the term, the link to the plate is that source's; whether any source draws a symbolic connection from the word's origin itself has not been checked.
-
-## Jungian reading (Psychology of the Transference, CW16 ¶457-465)
-Section summaries follow the ARAS concordance; lettering is ARAS's.
-
-- (a) Hieros gamos extended to the animal kingdom; the coniunctio begets the filius philosophorum or lapis. (a-1) Restores the 'man of light', identified with the Logos.
-- (b) The coitus occurs in water, standing for the unconscious; winged Sol and Luna as vapours represent spirit.
-- (c) Symbolic rather than pornographic meaning: medieval viewers read the erotic imagery as union of opposites.
-- (d) Duration of the opus compared to a pregnancy.
-- (e) Emphasis on the unio mystica; the uniting symbol disappears because the partners have become symbolic. (f) The coniunctio is never an initial state, but the product of a process.
-- (g)-(j-1) Cases where the transference cannot be resolved; not everything can or must be cured; caution before rash interpretation; some chronic cases call for nursing and the problem is moral rather than clinical.
-
-## Names and works cited
-Merculinus, Beya, Gabricus, Physis, Alfidius, Kalid, Senior, Maria, Goethe ('higher copulation'), Song of Songs, Gospel of John.
-
-## Other witnesses and notes
-- Plate 11 is the same subject winged (second series).
-- Edward F. Edinger, The Mystery of the Coniunctio (Inner City Books, 1994; lectures of 19-20 October 1984). Layer 2, a Jungian analyst's reading following Jung. The OFJ listing gives the chapter title for this position in the sequence of ten Rosarium pictures as "Union, manifestation of mystery" (item 5 of 10). The match to this plate is by position in that listing, and the title differs from the title used on this page; neither the book nor its plate captions have been consulted. Full entry: [[Plate 1 - The Mercurial Fountain|Plate 1: The Mercurial Fountain]].
-- Adam McLean, commentary in the Magnum Opus edition of the Rosary of the Philosophers (Edinburgh, 1980), hosted on alchemywebsite.com. Layer 3, one author's view. McLean reads all twenty woodcuts as one pattern (Body, Soul and Spirit) and presents his reading as one interpretation among others. What he says about this plate specifically has not yet been read. Full entry: [[Plate 1 - The Mercurial Fountain|Plate 1: The Mercurial Fountain]].
-- Betsy Cohen, IAJS conference paper, April 2022 (Duquesne Scholarship Collection). Layer 3, one author's view. A general argument that Jung chose the Rosarium drawings as a template for the analytic process, shaped by his relationships with Spielrein, Moltzer and Wolff; it is not a reading of this plate. Full entry: [[Plate 1 - The Mercurial Fountain|Plate 1: The Mercurial Fountain]].
-- Glasgow caption: 'Conception or Putrefaction'; the page treats the conjunction as the first stage and groups illustrations 5-10 as the lunar cycle (White Stone / Tincture). Compare ARAS, which gives 'Conceptio' as an alternative title for Plate 6 ([[Plate 6 - Death|Plate 6: Death]]); the two sources attach the title to different plates.
-- Karen-Claire Voss (1990) reads the series through the hierosgamos theme; see [[Plate 1 - The Mercurial Fountain|Plate 1: The Mercurial Fountain]]. Not consulted.
-
-## Sources
-- [ARAS concordance, Rosarium 5](https://aras.org/concordance/rosarium-5-conjunction)
-- [Glasgow, MS Ferguson 210](https://www.gla.ac.uk/myglasgow/library/files/special/exhibns/month/april2009.html)
-- [Wikipedia, Rosary of the Philosophers (edition and woodcut background)](https://en.wikipedia.org/wiki/Rosary_of_the_Philosophers)
-- [OFJ, listing for Edinger, The Mystery of the Coniunctio](https://ofj.org/?p=86622)
-- [McLean, commentary on the Rosary of the Philosophers (alchemywebsite.com)](https://alchemywebsite.com/roscom.html)
-- [Cohen, IAJS 2022 (Duquesne Scholarship Collection)](https://dsc.duq.edu/phenomenology-iajs/7)
-- [Etymonline, conception](https://www.etymonline.com/word/conception)
-- [Etymonline, putrefaction](https://www.etymonline.com/word/putrefaction)
-
-## Further reading
-- Wikipedia: [Rosary of the Philosophers](https://en.wikipedia.org/wiki/Rosary_of_the_Philosophers): edition details of the 1550 print, the manuscript list, translations and the woodcut precedents.
-- Wikipedia: [Magnum opus (alchemy)](https://en.wikipedia.org/wiki/Magnum_opus_%28alchemy%29): the four-stage framework (nigredo, albedo, citrinitas, rubedo) against which the plates are read.
-- Wikipedia: [Hieros gamos](https://en.wikipedia.org/wiki/Hieros_gamos): background on the sacred marriage; Karen-Claire Voss (1990) reads the whole series through this theme.
-- Wiktionary: [coniunctio](https://en.wiktionary.org/wiki/coniunctio): Latin 'joining'; the term for the union of the royal pair in the series.
-- Wiktionary: [putrefactio](https://en.wiktionary.org/wiki/putrefactio): Latin 'making rotten'; the decay stage tied to the nigredo.
+## Provenance of this description
+The description above is paraphrased from the ARAS concordance of Jung's Psychology of the Transference ([ARAS concordance, Rosarium 5](https://aras.org/concordance/rosarium-5-conjunction)). It has not been checked against the 1550 print. The title is the conventional title used in that source, not a caption from the print.
 
 ## Not yet entered
-- Exact 1550 German/Latin caption and verse (transcribe from the print or a facsimile)
-- Image licence (the linked image is hosted by alchemywebsite.com; none stated)
-- What Edinger says about this plate (only a chapter title from a listing has been read)
-- What McLean says about this plate (only the series-level description has been read)
-- Wiktionary etymologies for the terms above (the Wiktionary pages could not be fetched here, so the etymology notes rest on Etymonline and Wikipedia)
+- Exact 1550 German or Latin caption and verse, to be transcribed from the print or a facsimile
+- Image licence: the linked image is hosted by alchemywebsite.com, which states none
