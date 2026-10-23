@@ -9,8 +9,6 @@ subsequence: null
 alchemical_stage: "Preparation for the coniunctio (ARAS names no operation)"
 jung_chapter: "Naked Truth"
 jung_cw16: "CW16 ¶451-452"
-prev: "RP-02"
-next: "RP-04"
 image_url: "https://www.alchemywebsite.com/virtual_museum/Images/RS03.jpg"
 verified_against_1550_print: false
 tags: [rosarium, plate]
@@ -25,6 +23,10 @@ Text adapted from the Tractatus aureus: the initiate is humble, devout, cheerful
 
 ## Alchemical stage
 Preparation for the coniunctio (ARAS names no operation)
+
+### Etymology and symbolism
+- Spirit: Latin spiritus, 'breath', from spirare, 'to breathe' ([Etymonline](https://www.etymonline.com/word/spirit)). On this plate the dove carries the inscription 'Spiritus est qui unificat' (ARAS), and Glasgow MS Ferguson 210 gives the bird's scroll as 'It is the Spirit which vivifies'.
+- Etymologies are from the sources linked here. Where a plate source (ARAS, Glasgow, Henderson) uses the term, the link to the plate is that source's; whether any source draws a symbolic connection from the word's origin itself has not been checked.
 
 ## Jungian reading (Psychology of the Transference, CW16 ¶451-452)
 Section summaries follow the ARAS concordance; lettering is ARAS's.
@@ -42,9 +44,6 @@ Sol, Luna, Maria, Joannes Lydus, Phosphorus, Hesperus, Aphrodite, Pseudo-Aristot
 - Betsy Cohen, IAJS conference paper, April 2022 (Duquesne Scholarship Collection). Layer 3, one author's view. A general argument that Jung chose the Rosarium drawings as a template for the analytic process, shaped by his relationships with Spielrein, Moltzer and Wolff; it is not a reading of this plate. Full entry: [[Plate 1 - The Mercurial Fountain|Plate 1: The Mercurial Fountain]].
 - Glasgow caption (MS Ferguson 210, illustration 3): 'The King and Queen disrobe and begin to come together'. The scrolls attributed to Sol and Luna on this page are reported by Glasgow in a passage that covers illustrations 2 and 3 together, so their placement is unconfirmed.
 
-## Neighbours
-Previous: [[Plate 2 - King and Queen|Plate 2: King and Queen]]. Next: [[Plate 4 - Immersion in the Bath|Plate 4: Immersion in the Bath]].
-
 ## Sources
 - [ARAS concordance, Rosarium 3](https://aras.org/concordance/rosarium-3-naked-truth)
 - [Glasgow, MS Ferguson 210](https://www.gla.ac.uk/myglasgow/library/files/special/exhibns/month/april2009.html)
@@ -52,14 +51,16 @@ Previous: [[Plate 2 - King and Queen|Plate 2: King and Queen]]. Next: [[Plate 4 
 - [OFJ, listing for Edinger, The Mystery of the Coniunctio](https://ofj.org/?p=86622)
 - [McLean, commentary on the Rosary of the Philosophers (alchemywebsite.com)](https://alchemywebsite.com/roscom.html)
 - [Cohen, IAJS 2022 (Duquesne Scholarship Collection)](https://dsc.duq.edu/phenomenology-iajs/7)
+- [Etymonline, spirit](https://www.etymonline.com/word/spirit)
 
 ## Further reading
-- Wikipedia: [Rosary of the Philosophers](https://en.wikipedia.org/wiki/Rosary_of_the_Philosophers)
-- Wikipedia: [Magnum opus (alchemy)](https://en.wikipedia.org/wiki/Magnum_opus_%28alchemy%29)
-- Wiktionary: [coniunctio](https://en.wiktionary.org/wiki/coniunctio)
+- Wikipedia: [Rosary of the Philosophers](https://en.wikipedia.org/wiki/Rosary_of_the_Philosophers): edition details of the 1550 print, the manuscript list, translations and the woodcut precedents.
+- Wikipedia: [Magnum opus (alchemy)](https://en.wikipedia.org/wiki/Magnum_opus_%28alchemy%29): the four-stage framework (nigredo, albedo, citrinitas, rubedo) against which the plates are read.
+- Wiktionary: [coniunctio](https://en.wiktionary.org/wiki/coniunctio): Latin 'joining'; the term for the union of the royal pair in the series.
 
 ## Not yet entered
 - Exact 1550 German/Latin caption and verse (transcribe from the print or a facsimile)
 - Image licence (the linked image is hosted by alchemywebsite.com; none stated)
 - What Edinger says about this plate (only a chapter title from a listing has been read)
 - What McLean says about this plate (only the series-level description has been read)
+- Wiktionary etymologies for the terms above (the Wiktionary pages could not be fetched here, so the etymology notes rest on Etymonline and Wikipedia)

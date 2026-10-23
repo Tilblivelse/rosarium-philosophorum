@@ -9,8 +9,6 @@ subsequence: "A (4-10)"
 alchemical_stage: "Reanimation, following mundificatio (ARAS)"
 jung_chapter: "The Return of the Soul"
 jung_cw16: "CW16 ¶493-524"
-prev: "RP-08"
-next: "RP-10"
 image_url: "https://www.alchemywebsite.com/virtual_museum/Images/RS09.jpg"
 verified_against_1550_print: false
 tags: [rosarium, plate]
@@ -25,6 +23,11 @@ Verse (English rendering quoted by ARAS): "Here is the soul descending from on h
 
 ## Alchemical stage
 Reanimation, following mundificatio (ARAS)
+
+### Etymology and symbolism
+- Sublimation: Medieval Latin sublimatio, 'a lifting up', from sublimare ('to raise') and sublimis ('lofty'); in late 14th-century English an alchemical term for purifying a solid by vaporising it and letting it cool ([Etymonline](https://www.etymonline.com/word/sublimation)). Glasgow MS Ferguson 210 captions this illustration 'Of the rejoicing or springing or sublimation of the soul', while the plate itself shows the soul descending to the body.
+- Martyr: Late Latin and Doric Greek martys, 'witness'; the sense of someone who dies for a belief grew from bearing witness, and the Greek origin is uncertain ([Etymonline](https://www.etymonline.com/word/martyr)). The closing verse quoted by ARAS speaks of 'my many sufferings and great martyry'.
+- Etymologies are from the sources linked here. Where a plate source (ARAS, Glasgow, Henderson) uses the term, the link to the plate is that source's; whether any source draws a symbolic connection from the word's origin itself has not been checked.
 
 ## Jungian reading (Psychology of the Transference, CW16 ¶493-524)
 Section summaries follow the ARAS concordance; lettering is ARAS's.
@@ -49,9 +52,6 @@ Mercurius, Rebis, Shakti, Maya, Holy Grail; Theosebeia, Zosimos (soror mystica),
 - Betsy Cohen, IAJS conference paper, April 2022 (Duquesne Scholarship Collection). Layer 3, one author's view. A general argument that Jung chose the Rosarium drawings as a template for the analytic process, shaped by his relationships with Spielrein, Moltzer and Wolff; it is not a reading of this plate. Full entry: [[Plate 1 - The Mercurial Fountain|Plate 1: The Mercurial Fountain]].
 - Glasgow overlap: the exhibition page describes the soul's return to the body under illustration 9 and again under illustration 12 ([[Plate 12 - The Winged Sun Disc in the Sarcophagus (Illumination)|Plate 12: The Winged Sun Disc in the Sarcophagus (Illumination)]]) and does not clearly separate them.
 
-## Neighbours
-Previous: [[Plate 8 - Purification (Falling Dew)|Plate 8: Purification (Falling Dew)]]. Next: [[Plate 10 - The New Birth (Apotheosis of the Rebis)|Plate 10: The New Birth (Apotheosis of the Rebis)]].
-
 ## Sources
 - [ARAS concordance, Rosarium 9](https://aras.org/concordance/rosarium-9-return-soul)
 - [Glasgow, MS Ferguson 210](https://www.gla.ac.uk/myglasgow/library/files/special/exhibns/month/april2009.html)
@@ -59,16 +59,19 @@ Previous: [[Plate 8 - Purification (Falling Dew)|Plate 8: Purification (Falling 
 - [OFJ, listing for Edinger, The Mystery of the Coniunctio](https://ofj.org/?p=86622)
 - [McLean, commentary on the Rosary of the Philosophers (alchemywebsite.com)](https://alchemywebsite.com/roscom.html)
 - [Cohen, IAJS 2022 (Duquesne Scholarship Collection)](https://dsc.duq.edu/phenomenology-iajs/7)
+- [Etymonline, sublimation](https://www.etymonline.com/word/sublimation)
+- [Etymonline, martyr](https://www.etymonline.com/word/martyr)
 
 ## Further reading
-- Wikipedia: [Rosary of the Philosophers](https://en.wikipedia.org/wiki/Rosary_of_the_Philosophers)
-- Wikipedia: [Magnum opus (alchemy)](https://en.wikipedia.org/wiki/Magnum_opus_%28alchemy%29)
-- Wikipedia: [Albedo (alchemy)](https://en.wikipedia.org/wiki/Albedo_%28alchemy%29)
-- Wiktionary: [sublimatio](https://en.wiktionary.org/wiki/sublimatio)
-- Wiktionary: [albedo](https://en.wiktionary.org/wiki/albedo)
+- Wikipedia: [Rosary of the Philosophers](https://en.wikipedia.org/wiki/Rosary_of_the_Philosophers): edition details of the 1550 print, the manuscript list, translations and the woodcut precedents.
+- Wikipedia: [Magnum opus (alchemy)](https://en.wikipedia.org/wiki/Magnum_opus_%28alchemy%29): the four-stage framework (nigredo, albedo, citrinitas, rubedo) against which the plates are read.
+- Wikipedia: [Albedo (alchemy)](https://en.wikipedia.org/wiki/Albedo_%28alchemy%29): the whitening stage that follows the nigredo, with the washing (ablutio) and the dove.
+- Wiktionary: [sublimatio](https://en.wiktionary.org/wiki/sublimatio): Latin 'a lifting up'; the operation named in Glasgow's caption for Plate 9.
+- Wiktionary: [albedo](https://en.wiktionary.org/wiki/albedo): Latinised 'whiteness'; the whitening stage after the nigredo.
 
 ## Not yet entered
 - Exact 1550 German/Latin caption and verse (transcribe from the print or a facsimile)
 - Image licence (the linked image is hosted by alchemywebsite.com; none stated)
 - What Edinger says about this plate (only a chapter title from a listing has been read)
 - What McLean says about this plate (only the series-level description has been read)
+- Wiktionary etymologies for the terms above (the Wiktionary pages could not be fetched here, so the etymology notes rest on Etymonline and Wikipedia)

@@ -9,8 +9,6 @@ subsequence: null
 alchemical_stage: "Prima materia; Mercurius as source (no single operation named by ARAS)"
 jung_chapter: "The Mercurial Fountain"
 jung_cw16: "CW16 ¶402-409"
-prev: null
-next: "RP-02"
 image_url: "https://www.alchemywebsite.com/virtual_museum/Images/RS01.jpg"
 verified_against_1550_print: false
 tags: [rosarium, plate]
@@ -25,6 +23,12 @@ Opening verse (in the English rendering quoted by ARAS): "We are the metals' fir
 
 ## Alchemical stage
 Prima materia; Mercurius as source (no single operation named by ARAS)
+
+### Etymology and symbolism
+- Quintessence: Medieval Latin quinta essentia, 'fifth essence', a rendering of Greek pempte ousia ([Etymonline](https://www.etymonline.com/word/quintessence)). In ancient philosophy and medieval alchemy the fifth essence was the ether that Aristotle added to earth, water, air and fire, a prized substance for alchemists to extract. On this plate the fifth star above the centre is the quinta essentia (ARAS).
+- Mercury: Latin Mercurius, the Roman god and messenger of Jupiter, possibly from merx, 'merchandise'; the planet took the god's name and the metal, known to alchemy, took the name later; its Greek name hydrargyros means 'liquid silver' ([Etymonline](https://www.etymonline.com/word/mercury)). On this plate Mercurius stands in the basin with the six rim stars to make the seven planets and metals, and the serpens mercurialis crowns the fountain (ARAS).
+- Matter and prima materia: Latin materia, 'substance from which something is made' and also the hard inner wood of a tree, linked by scholars to mater, 'origin, source, mother'; Greek hyle, 'wood', gave Aristotle's term for matter ([Etymonline](https://www.etymonline.com/word/matter)). Wikipedia describes the prima materia as the primitive formless base of all matter, and quotes the Theatrum Chemicum as saying it begets, conceives and gives birth to itself ([Wikipedia](https://en.wikipedia.org/wiki/Prima_materia)). Glasgow MS Ferguson 210 captions this plate as the fountain representing alchemy's Prima Materia.
+- Etymologies are from the sources linked here. Where a plate source (ARAS, Glasgow, Henderson) uses the term, the link to the plate is that source's; whether any source draws a symbolic connection from the word's origin itself has not been checked.
 
 ## Jungian reading (Psychology of the Transference, CW16 ¶402-409)
 Section summaries follow the ARAS concordance; lettering is ARAS's.
@@ -59,9 +63,6 @@ Dorn, Maria the Copt, Nicholas of Cusa, Dante, Goethe (Faust), Chymical Wedding 
 - Karen-Claire Voss, "The Hierosgamos Theme in the Images of the Rosarium Philosophorum", in Proceedings of the International Conference on the History of Alchemy, ed. Z.R.W.M. von Martels (Brill, Leiden, 1990). Cited by Wikipedia; layer 3, a scholarly reading of the series through the hierosgamos theme. Not consulted.
 - ARAS (Benveniste) also cites Johannes Fabricius, Alchemy: The Medieval Alchemists and their Royal Art (1976), and Jung, The Practice of Psychotherapy (1954; CW16, pp. 241-245, 247, 250, 273). What those passages say about the Rosarium has not been read.
 
-## Neighbours
-Next: [[Plate 2 - King and Queen|Plate 2: King and Queen]].
-
 ## Sources
 - [ARAS concordance, Rosarium 1](https://aras.org/concordance/rosarium-1-mercurial-fountain)
 - [Glasgow, MS Ferguson 210](https://www.gla.ac.uk/myglasgow/library/files/special/exhibns/month/april2009.html)
@@ -71,12 +72,17 @@ Next: [[Plate 2 - King and Queen|Plate 2: King and Queen]].
 - [OFJ, listing for Edinger, The Mystery of the Coniunctio](https://ofj.org/?p=86622)
 - [McLean, commentary on the Rosary of the Philosophers (alchemywebsite.com)](https://alchemywebsite.com/roscom.html)
 - [Cohen, IAJS 2022 (Duquesne Scholarship Collection)](https://dsc.duq.edu/phenomenology-iajs/7)
+- [Etymonline, quintessence](https://www.etymonline.com/word/quintessence)
+- [Etymonline, mercury](https://www.etymonline.com/word/mercury)
+- [Etymonline, matter](https://www.etymonline.com/word/matter)
+- [Wikipedia, Prima materia](https://en.wikipedia.org/wiki/Prima_materia)
 
 ## Further reading
-- Wikipedia: [Rosary of the Philosophers](https://en.wikipedia.org/wiki/Rosary_of_the_Philosophers)
-- Wikipedia: [Magnum opus (alchemy)](https://en.wikipedia.org/wiki/Magnum_opus_%28alchemy%29)
-- Wikipedia: [Prima materia](https://en.wikipedia.org/wiki/Prima_materia)
-- Wiktionary: [prima materia](https://en.wiktionary.org/wiki/prima_materia)
+- Wikipedia: [Rosary of the Philosophers](https://en.wikipedia.org/wiki/Rosary_of_the_Philosophers): edition details of the 1550 print, the manuscript list, translations and the woodcut precedents.
+- Wikipedia: [Magnum opus (alchemy)](https://en.wikipedia.org/wiki/Magnum_opus_%28alchemy%29): the four-stage framework (nigredo, albedo, citrinitas, rubedo) against which the plates are read.
+- Wikipedia: [Prima materia](https://en.wikipedia.org/wiki/Prima_materia): the starting matter of the work, its many names and its self-begetting description, which bear on the fountain of Plate 1.
+- Wikipedia: [Serpent symbolism](https://en.wikipedia.org/wiki/Serpent_symbolism): general background on the serpent; this plate shows a serpent (see Image).
+- Wiktionary: [prima materia](https://en.wiktionary.org/wiki/prima_materia): Latin 'first matter'; the starting substance of the work.
 
 ## Not yet entered
 - Exact 1550 German/Latin caption and verse (transcribe from the print or a facsimile)
@@ -87,3 +93,4 @@ Next: [[Plate 2 - King and Queen|Plate 2: King and Queen]].
 - What the cited Fabricius (1976) and Jung (The Practice of Psychotherapy, 1954) passages say about the Rosarium
 - Which of the Wikipedia-listed manuscripts carry captions or variants relevant to plate 1
 - Image licence: the alchemywebsite.com page that transcribes the text (rosary0) gives no image credit or licence statement, and the Wikimedia Commons category could not be fetched
+- Wiktionary etymologies for the terms above (the Wiktionary pages could not be fetched here, so the etymology notes rest on Etymonline and Wikipedia)

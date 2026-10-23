@@ -1,7 +1,5 @@
 # Rosarium Philosophorum: plate records
 
-A reference database of the twenty woodcuts of the Rosarium Philosophorum (Frankfurt, 1550, printed as part II of De Alchimia Opuscula complura veterum philosophorum). There is one page per plate in plates/, written in the entry style of a lexicon extracted from reference sources. The database is for private research and grows slowly; every claim is tied to a named source.
-
 ## Index
 
 | Plate | Title | Series | Jung chapter (CW16) |
@@ -29,18 +27,6 @@ A reference database of the twenty woodcuts of the Rosarium Philosophorum (Frank
 
 The first series is plates 1-10 (Jung's commentary); the second is plates 11-20 (Henderson's presentation).
 
-## Page format
-
-Each plate page has YAML frontmatter (id, plate, title, work, edition, series, subsequence, alchemical_stage, jung_chapter, jung_cw16, prev, next, image_url, verified_against_1550_print, tags) and these sections in this order: Image; Text and motto; Alchemical stage; Jungian reading (plates 11-20: Reading, Henderson); Names and works cited; Other witnesses and notes; Neighbours; Sources; Further reading; Not yet entered. Neighbouring plates are linked with wikilinks.
-
-## Three layers of evidence
-
-Every statement on a plate page belongs to one of three layers, and the page says which.
-
-1. Documented: the 1550 print and the manuscripts, including the Glasgow manuscripts.
-2. Interpretation by Jung (plates 1-10, Psychology of the Transference, CW16) and by Joseph L. Henderson (plates 11-20, as summarised by Daniel S. Benveniste, ARAS Connections 2023, issue 2). Edward F. Edinger's reading of the first ten pictures is also recorded here, as a Jungian analyst's reading that follows Jung.
-3. Modern, single-author or non-scholarly readings, each named and marked as one author's view: Adam McLean (1980 commentary), Betsy Cohen (IAJS 2022), and a blog essay by Benoit Rousseau (2025). Dealer claims, such as the Cochem manuscript listing, are marked as such.
-
 ## Sources
 
 - ARAS concordance of Jung's Psychology of the Transference: basis for the plate 1-10 pages, including section lettering and CW16 paragraph numbers, which are ARAS's.
@@ -49,19 +35,3 @@ Every statement on a plate page belongs to one of three layers, and the page say
 - Wikipedia, Rosary of the Philosophers: edition details, printed reprises, manuscript list, translations and the Buch der heiligen Dreifaltigkeit precedents for woodcuts 10, 17 and 19.
 - McLean's commentary on alchemywebsite.com, which also hosts the images linked from each page and a transcription of the MS Ferguson 210 translation.
 
-## Conventions
-
-- Verse lines are English renderings quoted by the sources above. The 1550 German or Latin wording has not been checked against the print or a facsimile, and is not claimed.
-- Descriptions are paraphrased from the sources, not taken from the print directly. Every page is marked verified_against_1550_print: false until the print has been checked.
-- Where two sources disagree, both are recorded and attributed. Open disagreements include the author and date of the text (ARAS names Petrus Toletanus, mid-1200s; Wikipedia names no author), the dating of several Glasgow manuscripts, the title 'Conceptio' (ARAS gives it for plate 6, Glasgow for illustration 5), and the number of plates Jung used (ARAS and these pages: ten; McLean and Cohen: eleven).
-- Where a source does not say, the field is null or the gap is listed under Not yet entered on the page.
-- Images are linked, not copied. The image links point to alchemywebsite.com, which states no image credit or licence; the licence is open on every page.
-- Source PDFs and scans stay local and are linked rather than copied into the repository.
-
-## Open items across the database
-
-- Exact 1550 captions and verses for all twenty plates, to be transcribed from the print or a facsimile.
-- Image licence for each plate image.
-- What Edinger and McLean say about each plate specifically; only series-level descriptions and Edinger's chapter titles, by position, have been read.
-- Karen-Claire Voss, The Hierosgamos Theme in the Images of the Rosarium Philosophorum (Brill, 1990), cited by Wikipedia and not yet consulted.
-- Comparison of woodcuts 10, 17 and 19 with their Buch der heiligen Dreifaltigkeit precedents.

@@ -9,8 +9,6 @@ subsequence: null
 alchemical_stage: "Coniunctio announced (ARAS names no operation; frames the figure around the coniunctio)"
 jung_chapter: "King and Queen"
 jung_cw16: "CW16 ¶410-449"
-prev: "RP-01"
-next: "RP-03"
 image_url: "https://www.alchemywebsite.com/virtual_museum/Images/RS02.jpg"
 verified_against_1550_print: false
 tags: [rosarium, plate]
@@ -25,6 +23,10 @@ ARAS quotes Senior: "Aurum nostrum non est aurum vulgi" (our gold is not common 
 
 ## Alchemical stage
 Coniunctio announced (ARAS names no operation; frames the figure around the coniunctio)
+
+### Etymology and symbolism
+- Conjunction (coniunctio): Latin coniunctio, a noun of action from coniugare, 'to join together', itself from com- ('together') and iugum ('yoke'); English took it in the late 14th century, first of planets or stars meeting in the same part of the sky, and in the 17th and 18th centuries it could also mean sexual union ([Etymonline](https://www.etymonline.com/word/conjunction)). On this plate the king stands on the sun and the queen on the moon and they join hands (ARAS); Jung reads the scene as the coniunctio announced and as an incestuous union of brother and sister.
+- Etymologies are from the sources linked here. Where a plate source (ARAS, Glasgow, Henderson) uses the term, the link to the plate is that source's; whether any source draws a symbolic connection from the word's origin itself has not been checked.
 
 ## Jungian reading (Psychology of the Transference, CW16 ¶410-449)
 Section summaries follow the ARAS concordance; lettering is ARAS's.
@@ -54,9 +56,6 @@ Senior, Zosimos of Panopolis, Wei Po-yang, Waite; Rosarium, Aurora consurgens, V
 - Glasgow caption (MS Ferguson 210, illustration 2): 'the King and Queen personify the solar and lunar forces'. The page places the scroll texts in a passage covering illustrations 2 and 3 together, so which picture carries which scroll is unclear; the bird's scroll is given as 'It is the Spirit which vivifies'.
 - Karen-Claire Voss (1990) reads the series through the hierosgamos theme; see [[Plate 1 - The Mercurial Fountain|Plate 1: The Mercurial Fountain]]. Not consulted.
 
-## Neighbours
-Previous: [[Plate 1 - The Mercurial Fountain|Plate 1: The Mercurial Fountain]]. Next: [[Plate 3 - Naked Truth|Plate 3: Naked Truth]].
-
 ## Sources
 - [ARAS concordance, Rosarium 2](https://aras.org/concordance/rosarium-2-king-and-queen)
 - [Glasgow, MS Ferguson 210](https://www.gla.ac.uk/myglasgow/library/files/special/exhibns/month/april2009.html)
@@ -64,16 +63,18 @@ Previous: [[Plate 1 - The Mercurial Fountain|Plate 1: The Mercurial Fountain]]. 
 - [OFJ, listing for Edinger, The Mystery of the Coniunctio](https://ofj.org/?p=86622)
 - [McLean, commentary on the Rosary of the Philosophers (alchemywebsite.com)](https://alchemywebsite.com/roscom.html)
 - [Cohen, IAJS 2022 (Duquesne Scholarship Collection)](https://dsc.duq.edu/phenomenology-iajs/7)
+- [Etymonline, conjunction](https://www.etymonline.com/word/conjunction)
 
 ## Further reading
-- Wikipedia: [Rosary of the Philosophers](https://en.wikipedia.org/wiki/Rosary_of_the_Philosophers)
-- Wikipedia: [Magnum opus (alchemy)](https://en.wikipedia.org/wiki/Magnum_opus_%28alchemy%29)
-- Wikipedia: [Hieros gamos](https://en.wikipedia.org/wiki/Hieros_gamos)
-- Wiktionary: [hierogamy](https://en.wiktionary.org/wiki/hierogamy)
-- Wiktionary: [coniunctio](https://en.wiktionary.org/wiki/coniunctio)
+- Wikipedia: [Rosary of the Philosophers](https://en.wikipedia.org/wiki/Rosary_of_the_Philosophers): edition details of the 1550 print, the manuscript list, translations and the woodcut precedents.
+- Wikipedia: [Magnum opus (alchemy)](https://en.wikipedia.org/wiki/Magnum_opus_%28alchemy%29): the four-stage framework (nigredo, albedo, citrinitas, rubedo) against which the plates are read.
+- Wikipedia: [Hieros gamos](https://en.wikipedia.org/wiki/Hieros_gamos): background on the sacred marriage; Karen-Claire Voss (1990) reads the whole series through this theme.
+- Wikipedia: [Zosimus of Panopolis](https://en.wikipedia.org/wiki/Zosimus_of_Panopolis): one of the early alchemists Jung cites in his reading of this plate (ARAS).
+- Wiktionary: [coniunctio](https://en.wiktionary.org/wiki/coniunctio): Latin 'joining'; the term for the union of the royal pair in the series.
 
 ## Not yet entered
 - Exact 1550 German/Latin caption and verse (transcribe from the print or a facsimile)
 - Image licence (the linked image is hosted by alchemywebsite.com; none stated)
 - What Edinger says about this plate (only a chapter title from a listing has been read)
 - What McLean says about this plate (only the series-level description has been read)
+- Wiktionary etymologies for the terms above (the Wiktionary pages could not be fetched here, so the etymology notes rest on Etymonline and Wikipedia)

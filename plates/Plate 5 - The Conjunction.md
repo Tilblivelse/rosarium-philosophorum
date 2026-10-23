@@ -9,8 +9,6 @@ subsequence: "A (4-10)"
 alchemical_stage: "Coniunctio, following dissolution into the massa confusa (ARAS)"
 jung_chapter: "The Conjunction"
 jung_cw16: "CW16 ¶457-465"
-prev: "RP-04"
-next: "RP-06"
 image_url: "https://www.alchemywebsite.com/virtual_museum/Images/RS05.jpg"
 verified_against_1550_print: false
 tags: [rosarium, plate]
@@ -25,6 +23,11 @@ Verse (English rendering quoted by ARAS): "O Luna, folded in my sweet embrace / 
 
 ## Alchemical stage
 Coniunctio, following dissolution into the massa confusa (ARAS)
+
+### Etymology and symbolism
+- Conception: Latin conceptio, from concipere, 'to take in and hold', from capere, 'to take'; in English first the act of conceiving in the womb ([Etymonline](https://www.etymonline.com/word/conception)). Glasgow MS Ferguson 210 captions this plate 'Conception or Putrefaction'; ARAS gives 'Conceptio' as a title for Plate 6 instead.
+- Putrefaction: Latin putrefacere, 'to make rotten', from a verb for rotting and facere, 'to make' ([Etymonline](https://www.etymonline.com/word/putrefaction)). It is the second half of Glasgow's caption for this plate.
+- Etymologies are from the sources linked here. Where a plate source (ARAS, Glasgow, Henderson) uses the term, the link to the plate is that source's; whether any source draws a symbolic connection from the word's origin itself has not been checked.
 
 ## Jungian reading (Psychology of the Transference, CW16 ¶457-465)
 Section summaries follow the ARAS concordance; lettering is ARAS's.
@@ -47,9 +50,6 @@ Merculinus, Beya, Gabricus, Physis, Alfidius, Kalid, Senior, Maria, Goethe ('hig
 - Glasgow caption: 'Conception or Putrefaction'; the page treats the conjunction as the first stage and groups illustrations 5-10 as the lunar cycle (White Stone / Tincture). Compare ARAS, which gives 'Conceptio' as an alternative title for Plate 6 ([[Plate 6 - Death|Plate 6: Death]]); the two sources attach the title to different plates.
 - Karen-Claire Voss (1990) reads the series through the hierosgamos theme; see [[Plate 1 - The Mercurial Fountain|Plate 1: The Mercurial Fountain]]. Not consulted.
 
-## Neighbours
-Previous: [[Plate 4 - Immersion in the Bath|Plate 4: Immersion in the Bath]]. Next: [[Plate 6 - Death|Plate 6: Death]].
-
 ## Sources
 - [ARAS concordance, Rosarium 5](https://aras.org/concordance/rosarium-5-conjunction)
 - [Glasgow, MS Ferguson 210](https://www.gla.ac.uk/myglasgow/library/files/special/exhibns/month/april2009.html)
@@ -57,16 +57,19 @@ Previous: [[Plate 4 - Immersion in the Bath|Plate 4: Immersion in the Bath]]. Ne
 - [OFJ, listing for Edinger, The Mystery of the Coniunctio](https://ofj.org/?p=86622)
 - [McLean, commentary on the Rosary of the Philosophers (alchemywebsite.com)](https://alchemywebsite.com/roscom.html)
 - [Cohen, IAJS 2022 (Duquesne Scholarship Collection)](https://dsc.duq.edu/phenomenology-iajs/7)
+- [Etymonline, conception](https://www.etymonline.com/word/conception)
+- [Etymonline, putrefaction](https://www.etymonline.com/word/putrefaction)
 
 ## Further reading
-- Wikipedia: [Rosary of the Philosophers](https://en.wikipedia.org/wiki/Rosary_of_the_Philosophers)
-- Wikipedia: [Magnum opus (alchemy)](https://en.wikipedia.org/wiki/Magnum_opus_%28alchemy%29)
-- Wikipedia: [Hieros gamos](https://en.wikipedia.org/wiki/Hieros_gamos)
-- Wiktionary: [coniunctio](https://en.wiktionary.org/wiki/coniunctio)
-- Wiktionary: [putrefactio](https://en.wiktionary.org/wiki/putrefactio)
+- Wikipedia: [Rosary of the Philosophers](https://en.wikipedia.org/wiki/Rosary_of_the_Philosophers): edition details of the 1550 print, the manuscript list, translations and the woodcut precedents.
+- Wikipedia: [Magnum opus (alchemy)](https://en.wikipedia.org/wiki/Magnum_opus_%28alchemy%29): the four-stage framework (nigredo, albedo, citrinitas, rubedo) against which the plates are read.
+- Wikipedia: [Hieros gamos](https://en.wikipedia.org/wiki/Hieros_gamos): background on the sacred marriage; Karen-Claire Voss (1990) reads the whole series through this theme.
+- Wiktionary: [coniunctio](https://en.wiktionary.org/wiki/coniunctio): Latin 'joining'; the term for the union of the royal pair in the series.
+- Wiktionary: [putrefactio](https://en.wiktionary.org/wiki/putrefactio): Latin 'making rotten'; the decay stage tied to the nigredo.
 
 ## Not yet entered
 - Exact 1550 German/Latin caption and verse (transcribe from the print or a facsimile)
 - Image licence (the linked image is hosted by alchemywebsite.com; none stated)
 - What Edinger says about this plate (only a chapter title from a listing has been read)
 - What McLean says about this plate (only the series-level description has been read)
+- Wiktionary etymologies for the terms above (the Wiktionary pages could not be fetched here, so the etymology notes rest on Etymonline and Wikipedia)

@@ -9,8 +9,6 @@ subsequence: "B (11-17)"
 alchemical_stage: "Transition out of the nigredo (by comparison with Plate 9); not named directly"
 jung_chapter: null
 jung_cw16: null
-prev: "RP-15"
-next: "RP-17"
 image_url: "https://www.alchemywebsite.com/virtual_museum/Images/RS16.jpg"
 verified_against_1550_print: false
 tags: [rosarium, plate]
@@ -26,6 +24,10 @@ No verse or motto cited in the sources consulted.
 ## Alchemical stage
 Transition out of the nigredo (by comparison with Plate 9); not named directly
 
+### Etymology and symbolism
+- Anima: Latin, the feminine form of animus, from a root meaning 'to breathe' ([Etymonline](https://www.etymonline.com/word/anima)). The descending soul of this plate is female; Henderson's anima reading is recorded for Plate 14, and no Henderson interpretation is recorded for this plate.
+- Etymologies are from the sources linked here. Where a plate source (ARAS, Glasgow, Henderson) uses the term, the link to the plate is that source's; whether any source draws a symbolic connection from the word's origin itself has not been checked.
+
 ## Reading (Henderson, second series)
 Joseph L. Henderson, presentation of 18 March 1990 on the second half of the series, summarised by Daniel S. Benveniste (ARAS Connections 2023, Issue 2).
 
@@ -39,20 +41,19 @@ Jung's Psychology of the Transference (1946) comments on plates 1-10 only.
 - Glasgow: no caption or interpretation given for 16.
 - Adam McLean, commentary in the Magnum Opus edition of the Rosary of the Philosophers (Edinburgh, 1980), hosted on alchemywebsite.com. Layer 3, one author's view. McLean reads all twenty woodcuts as one pattern (Body, Soul and Spirit) and presents his reading as one interpretation among others. What he says about this plate specifically has not yet been read. Full entry: [[Plate 1 - The Mercurial Fountain|Plate 1: The Mercurial Fountain]].
 
-## Neighbours
-Previous: [[Plate 15 - Falling Dew on the Hermaphrodite|Plate 15: Falling Dew on the Hermaphrodite]]. Next: [[Plate 17 - The Demonstration of Perfection (Bat-winged Hermaphrodite)|Plate 17: The Demonstration of Perfection (Bat-winged Hermaphrodite)]].
-
 ## Sources
 - [ARAS, On the Rosarium Philosophorum (Benveniste/Henderson)](https://aras.org/documents/rosarium-philosophorum)
 - [Glasgow, MS Ferguson 210](https://www.gla.ac.uk/myglasgow/library/files/special/exhibns/month/april2009.html)
 - [Wikipedia, Rosary of the Philosophers (edition and woodcut background)](https://en.wikipedia.org/wiki/Rosary_of_the_Philosophers)
 - [McLean, commentary on the Rosary of the Philosophers (alchemywebsite.com)](https://alchemywebsite.com/roscom.html)
+- [Etymonline, anima](https://www.etymonline.com/word/anima)
 
 ## Further reading
-- Wikipedia: [Rosary of the Philosophers](https://en.wikipedia.org/wiki/Rosary_of_the_Philosophers)
-- Wikipedia: [Magnum opus (alchemy)](https://en.wikipedia.org/wiki/Magnum_opus_%28alchemy%29)
+- Wikipedia: [Rosary of the Philosophers](https://en.wikipedia.org/wiki/Rosary_of_the_Philosophers): edition details of the 1550 print, the manuscript list, translations and the woodcut precedents.
+- Wikipedia: [Magnum opus (alchemy)](https://en.wikipedia.org/wiki/Magnum_opus_%28alchemy%29): the four-stage framework (nigredo, albedo, citrinitas, rubedo) against which the plates are read.
 
 ## Not yet entered
 - Exact 1550 German/Latin caption and verse (transcribe from the print or a facsimile)
 - Image licence (the linked image is hosted by alchemywebsite.com; none stated)
 - What McLean says about this plate (only the series-level description has been read)
+- Wiktionary etymologies for the terms above (the Wiktionary pages could not be fetched here, so the etymology notes rest on Etymonline and Wikipedia)

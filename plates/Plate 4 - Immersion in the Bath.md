@@ -9,8 +9,6 @@ subsequence: "A (4-10)"
 alchemical_stage: "Solutio (dissolution), identified in ARAS section (c)"
 jung_chapter: "The Immersion in the Bath"
 jung_cw16: "CW16 ¶453-456"
-prev: "RP-03"
-next: "RP-05"
 image_url: "https://www.alchemywebsite.com/virtual_museum/Images/RS04.jpg"
 verified_against_1550_print: false
 tags: [rosarium, plate]
@@ -25,6 +23,10 @@ The text accompanying the picture, as quoted by ARAS: "Our Stone is to be extrac
 
 ## Alchemical stage
 Solutio (dissolution), identified in ARAS section (c)
+
+### Etymology and symbolism
+- Solution and dissolve: Latin solutio, 'a loosening or unfastening', from solvere, 'to loosen, untie, dissolve'; the chemical sense of dissolving a substance is present in the earliest English use ([Etymonline, solution](https://www.etymonline.com/word/solution)). Dissolve is Latin dissolvere, 'to loosen up, break apart', from dis- ('apart') and solvere ([Etymonline, dissolve](https://www.etymonline.com/word/dissolve)). ARAS identifies the stage of this plate as solutio, and the king and queen are immersed in the bath.
+- Etymologies are from the sources linked here. Where a plate source (ARAS, Glasgow, Henderson) uses the term, the link to the plate is that source's; whether any source draws a symbolic connection from the word's origin itself has not been checked.
 
 ## Jungian reading (Psychology of the Transference, CW16 ¶453-456)
 Section summaries follow the ARAS concordance; lettering is ARAS's.
@@ -48,23 +50,23 @@ Mercurius, Dorn, Heraclitus, Gabricus (Thabritius), Beya, Nous, Physis, Melchior
 - Betsy Cohen, IAJS conference paper, April 2022 (Duquesne Scholarship Collection). Layer 3, one author's view. A general argument that Jung chose the Rosarium drawings as a template for the analytic process, shaped by his relationships with Spielrein, Moltzer and Wolff; it is not a reading of this plate. Full entry: [[Plate 1 - The Mercurial Fountain|Plate 1: The Mercurial Fountain]].
 - Glasgow: the exhibition page gives no description of illustration 4.
 
-## Neighbours
-Previous: [[Plate 3 - Naked Truth|Plate 3: Naked Truth]]. Next: [[Plate 5 - The Conjunction|Plate 5: The Conjunction]].
-
 ## Sources
 - [ARAS concordance, Rosarium 4](https://aras.org/concordance/rosarium-4-immersion-bath)
 - [Wikipedia, Rosary of the Philosophers (edition and woodcut background)](https://en.wikipedia.org/wiki/Rosary_of_the_Philosophers)
 - [OFJ, listing for Edinger, The Mystery of the Coniunctio](https://ofj.org/?p=86622)
 - [McLean, commentary on the Rosary of the Philosophers (alchemywebsite.com)](https://alchemywebsite.com/roscom.html)
 - [Cohen, IAJS 2022 (Duquesne Scholarship Collection)](https://dsc.duq.edu/phenomenology-iajs/7)
+- [Etymonline, solution](https://www.etymonline.com/word/solution)
+- [Etymonline, dissolve](https://www.etymonline.com/word/dissolve)
 
 ## Further reading
-- Wikipedia: [Rosary of the Philosophers](https://en.wikipedia.org/wiki/Rosary_of_the_Philosophers)
-- Wikipedia: [Magnum opus (alchemy)](https://en.wikipedia.org/wiki/Magnum_opus_%28alchemy%29)
-- Wiktionary: [solutio](https://en.wiktionary.org/wiki/solutio)
+- Wikipedia: [Rosary of the Philosophers](https://en.wikipedia.org/wiki/Rosary_of_the_Philosophers): edition details of the 1550 print, the manuscript list, translations and the woodcut precedents.
+- Wikipedia: [Magnum opus (alchemy)](https://en.wikipedia.org/wiki/Magnum_opus_%28alchemy%29): the four-stage framework (nigredo, albedo, citrinitas, rubedo) against which the plates are read.
+- Wiktionary: [solutio](https://en.wiktionary.org/wiki/solutio): Latin 'a loosening'; the dissolving operation of alchemy.
 
 ## Not yet entered
 - Exact 1550 German/Latin caption and verse (transcribe from the print or a facsimile)
 - Image licence (the linked image is hosted by alchemywebsite.com; none stated)
 - What Edinger says about this plate (only a chapter title from a listing has been read)
 - What McLean says about this plate (only the series-level description has been read)
+- Wiktionary etymologies for the terms above (the Wiktionary pages could not be fetched here, so the etymology notes rest on Etymonline and Wikipedia)
