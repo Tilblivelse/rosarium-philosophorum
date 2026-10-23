@@ -24,8 +24,3 @@
 | [[Plate 18 - The Green Lion Devours the Sun\|Plate 18]] | The Green Lion Devours the Sun |
 | [[Plate 19 - The Crowning of the Virgin\|Plate 19]] | The Crowning of the Virgin |
 | [[Plate 20 - The Resurrection\|Plate 20]] | The Resurrection |
-
-- Each page links the English text of the whole work on [alchemywebsite.com](https://alchemywebsite.com/rosary0.html). That text is a later English translation, not the 1550 Latin and German, and the site states no rights.
-- Each page links and embeds its image from alchemywebsite.com, which states no image licence; the licence is unknown for every plate.
-=======
->>>>>>> 7d0de826043b4e71725ebaf7d4176cae5499ea51
