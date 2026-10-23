@@ -1,7 +1,5 @@
 # Rosarium Philosophorum: plate descriptions
 
-Short descriptions of the twenty woodcuts of the Rosarium Philosophorum (Frankfurt, 1550, printed as part II of De Alchimia Opuscula complura veterum philosophorum), one page per plate.
-
 ## Index
 
 | Plate | Title |
@@ -27,6 +25,7 @@ Short descriptions of the twenty woodcuts of the Rosarium Philosophorum (Frankfu
 | [[Plate 19 - The Crowning of the Virgin\|Plate 19]] | The Crowning of the Virgin |
 | [[Plate 20 - The Resurrection\|Plate 20]] | The Resurrection |
 
+<<<<<<< HEAD
 ## Scope and sources
 
 - Each page describes what the woodcut shows and lists documentary notes (manuscript witnesses, Glasgow captions, edition facts). It contains no interpretation, no verse text, and no reading by any author.
@@ -35,3 +34,5 @@ Short descriptions of the twenty woodcuts of the Rosarium Philosophorum (Frankfu
 - No description has been checked against the 1550 print; each page says so in its provenance section.
 - Each page links the English text of the whole work on [alchemywebsite.com](https://alchemywebsite.com/rosary0.html). That text is a later English translation, not the 1550 Latin and German, and the site states no rights.
 - Each page links and embeds its image from alchemywebsite.com, which states no image licence; the licence is unknown for every plate.
+=======
+>>>>>>> 7d0de826043b4e71725ebaf7d4176cae5499ea51
