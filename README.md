@@ -25,13 +25,6 @@
 | [[Plate 19 - The Crowning of the Virgin\|Plate 19]] | The Crowning of the Virgin |
 | [[Plate 20 - The Resurrection\|Plate 20]] | The Resurrection |
 
-<<<<<<< HEAD
-## Scope and sources
-
-- Each page describes what the woodcut shows and lists documentary notes (manuscript witnesses, Glasgow captions, edition facts). It contains no interpretation, no verse text, and no reading by any author.
-- The descriptions are paraphrased from the ARAS concordance of Jung's Psychology of the Transference (plates 1-10) and from the summary of Joseph L. Henderson's 1990 presentation by Daniel S. Benveniste, ARAS Connections 2023, issue 2 (plates 11-20). The source is named on each page.
-- The titles are the conventional titles used in those sources, not captions from the print.
-- No description has been checked against the 1550 print; each page says so in its provenance section.
 - Each page links the English text of the whole work on [alchemywebsite.com](https://alchemywebsite.com/rosary0.html). That text is a later English translation, not the 1550 Latin and German, and the site states no rights.
 - Each page links and embeds its image from alchemywebsite.com, which states no image licence; the licence is unknown for every plate.
 =======
