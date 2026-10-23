@@ -1,7 +1,5 @@
 # Rosarium Philosophorum: plate descriptions
 
-Short descriptions of the twenty woodcuts of the Rosarium Philosophorum (Frankfurt, 1550, printed as part II of De Alchimia Opuscula complura veterum philosophorum), one page per plate.
-
 ## Index
 
 | Plate | Title |
@@ -27,10 +25,3 @@ Short descriptions of the twenty woodcuts of the Rosarium Philosophorum (Frankfu
 | [[Plate 19 - The Crowning of the Virgin\|Plate 19]] | The Crowning of the Virgin |
 | [[Plate 20 - The Resurrection\|Plate 20]] | The Resurrection |
 
-## Scope and sources
-
-- Each page describes only what the woodcut shows. It contains no interpretation, no verse or caption text, and no reading by any author.
-- The descriptions are paraphrased from the ARAS concordance of Jung's Psychology of the Transference (plates 1-10) and from the summary of Joseph L. Henderson's 1990 presentation by Daniel S. Benveniste, ARAS Connections 2023, issue 2 (plates 11-20). The source is named on each page.
-- The titles are the conventional titles used in those sources, not captions from the print.
-- No description has been checked against the 1550 print, and every page is marked verified_against_1550_print: false.
-- Image links point to alchemywebsite.com, which states no image licence; the licence is unknown for every plate.
